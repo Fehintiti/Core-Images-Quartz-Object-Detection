@@ -21,7 +21,8 @@ After the annotation process, it was found that only 283 out of 919 images conta
 
 ## Roboflow Metrics
 
-Subsequently, the trained model was evaluated on unseen core images, with the results available in my [GitHub repository](link).
+Subsequently, the trained model was evaluated on unseen core images, with the results available in my Collab notebook [Download the Jupyter Notebook](https://drive.google.com/file/d/1UssvRDZhG-KOyuWGa8q4RkvV8Q3JCZiu/view?usp=sharing)
+.
 
 ## Ultralytics YOLOv8 Process
 
